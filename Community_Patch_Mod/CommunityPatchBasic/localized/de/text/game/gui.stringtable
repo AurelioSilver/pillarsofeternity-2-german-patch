@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\gui</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>3</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>1154</ID>
+      <DefaultText>regardless of target's Health</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>2128</ID>
+      <DefaultText>{0} on succesfull attack</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>3810</ID>
+      <DefaultText>on succesfull attack</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>8</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>20000</ID>
+      <DefaultText>+20% Duration with Empowered actions</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20199</ID>
+      <DefaultText>Wirkung der Stufe 1 (beim Ziel), Inspiration der Stufe 2 (bei sich selbst)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20203</ID>
+      <DefaultText>{0:value}% of Base Weapon Damage in 1.5m radius (AoE increases with Intellect) on Weapon Hit</DefaultText>
+      <FemaleText />
+    </Entry>
+     <Entry>
+      <ID>20500</ID>
+      <DefaultText>{0:value:straight} Raw Damage</DefaultText>
+      <FemaleText />
+    </Entry>
+     <Entry>
+      <ID>20501</ID>
+      <DefaultText>Deals additional Raw Damage with weapon attacks against ≤ 2m distance targets</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20502</ID>
+      <DefaultText>+3% Damage for each missing percent of target's Health below 50%</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20503</ID>
+      <DefaultText>+6% Damage for each missing percent of target's Health below 50%</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20504</ID>
+      <DefaultText>25% chance to counter-attack the enemy when Missed or Grazed with a Melee Weapon attack</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>

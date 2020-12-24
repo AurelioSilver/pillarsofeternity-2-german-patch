@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Name>game\statuseffects</Name>
+  <NextEntryID>1</NextEntryID>
+  <EntryCount>4</EntryCount>
+  <Entries>
+    <Entry>
+      <ID>20055</ID>
+      <DefaultText>{0:value:percent} of Base Weapon Damage in 1.5m radius (AoE increases with Intellect) on Weapon Hit</DefaultText>
+      <FemaleText />
+    </Entry>
+     <Entry>
+      <ID>20204</ID>
+      <DefaultText>{0:extravalue:percent} of boar's Damage dealt as Raw Damage</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20499</ID>
+      <DefaultText>Imbue spell effects gain {0:value} Penetration bonus (increases with Arcana)</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20549</ID>
+      <DefaultText>{0:extravalue:percent} von {0:damagetype} Schaden als reiner Schaden über längere Zeit</DefaultText>
+      <FemaleText />
+    </Entry>
+  </Entries>
+</StringTableFile>
