@@ -6,38 +6,38 @@
   <Entries>
     <Entry>
       <ID>20003</ID>
-      <DefaultText>By swinging the sabre with great arcing strikes, gain Penetration at the cost of Deflection.</DefaultText>
+      <DefaultText>Das Schwingen des Säbels in großen bogenartigen Hieben erhöht die Durchschlagskraft auf Kosten der Abwehr.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20055</ID>
-      <DefaultText>The barbarian's attacks become so forceful as to impact others around the target enemy. For every successful melee attack, the barbarian makes reduced-damage attacks at all other enemies within a short distance of the target. The damage of these attacks increases by +3.3% per Power Level.</DefaultText>
+      <DefaultText>Die Angriffe des Barbaren werden derart heftig, dass auch andere um das anvisierte Ziel davon betroffen werden. Für jeden erfolgreichen Nahkampfangriff führt der Barbar einen Angriff mit verringertem Schaden auf alle anderen Feinde in einem geringen Umkreis um das Ziel herum aus. Der Schaden dieser Angriffe erhöht sich um +3.3% pro Kraftstufe.</DefaultText>
       <FemaleText />
    </Entry>
     <Entry>
       <ID>20250</ID>
-      <DefaultText>Gives a Damage and Accuracy bonus to the fighter's proficient weapons.</DefaultText>
+      <DefaultText>Verleiht Waffen aus dem Waffenschwerpunkt des Kämpfers Bonus auf Schaden Genauigkeit.</DefaultText>
       <FemaleText />
     </Entry>
    <Entry>
       <ID>20498</ID>
-      <DefaultText>Arcane Archer - Penetrating Imbue</DefaultText>
+      <DefaultText>Arkane Bogenschützen - Durchdringende Wirkung</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20499</ID>
-      <DefaultText>Imbue spell effects gain increased Penetration from Arcana skill.</DefaultText>
+      <DefaultText>Wirkungen erfüllter Zaubersprüche gewinnen erhöhte Durchschlagskraft von der Fertigkeit Arkana.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20505</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Learns "&lt;xg&gt;Arkemyr&lt;/xg&gt;'s Dazzling Lights".
+Lernt „&lt;link="gamedata://9a75098f-8496-44a7-a8b6-d9b10bdf7878"&gt;Arkemyrs blendende Lichter&lt;/link&gt;“.
 
-Automatically gain select Illusion wizard spells at new Power Levels. (spells cost Guile to use)
+Lernt automatisch ausgesuchte Illusionszauber auf neuen Kraftstufen. (Das Zauberwirken kostet Arglist)
 
-&lt;b&gt;Penalty&lt;/b&gt;
-Sneak Attack deals significantly less damage.</DefaultText>
+&lt;b&gt;Abzug&lt;/b&gt;
+Schleichangriff verursacht deutlich weniger Schaden.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

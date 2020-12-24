@@ -6,77 +6,77 @@
   <Entries>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Empowered attacks gain increased duration.</DefaultText>
+      <DefaultText>Ermächtige Angriffe erhalten eine erhöhte Dauer.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20001</ID>
-      <DefaultText>Extra pocket</DefaultText>
+      <DefaultText>Extra-Tasche</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20002</ID>
-      <DefaultText>Experienced adventurers try to prepare in advance for any surprises during their travels. They often attach various pockets and tabs to clothes or armor, in order have the needed scroll or potion within a hand's reach. The character gains an additional quick item slot.</DefaultText>
+      <DefaultText>Erfahrene Abenteurer versuchen, sich im Voraus auf eventuelle Überraschungen während ihrer Reisen vorzubereiten. Oft bringen sie verschiedene Taschen und Laschen an Kleidung oder Rüstungen an, um die benötigte Schriftrolle oder den benötigten Trank in Reichweite einer Hand zu haben. Der Character erhält einen zusätzlichen Schnellauswahl-Platz.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20150</ID>
-      <DefaultText>Latches onto some characteristic of the target's psyche and drains it, granting the same amount as a bonus to the cipher. Applies a random low tier Affliction to the enemy and a matching mid tier Inspiration to the cipher.</DefaultText>
+      <DefaultText>Klammert sich an einige Eigenschaften der Psyche des Ziels und entzieht diese, wobei es dem Medium die gleiche Menge als Bonus gewährt. Fügt dem Feind eine zufällige Wirkung niederer Stufe zu und verleiht eine entsprechende Inspiration mittlerer Stufe dem Medium.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20151</ID>
-      <DefaultText>(Biting Whip) - The cipher's Soul Whip bites deeper, and deals extra damage as raw.</DefaultText>
+      <DefaultText>(Beißende Peitsche) - Die Seelenpeitsche des Mediums beißt tiefer und teilt extra Schaden als direkten Schaden aus.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20152</ID>
-      <DefaultText>Haunt the foes' minds with dark memories of those they've lost and killed, Periodically Hobbling and Terrifying the target, and Hobbling and Frightening enemies around it.</DefaultText>
+      <DefaultText>Sucht den Verstand des Ziels mit düsteren Erinnerungen an all diejenigen heim, die es verloren oder getötet hat. Dadurch wird das Ziel Geschockt und leidet unter der Wirkung Humpelnd und die Feinde um es herum leiden unter der Wirkung Geschockt und Verängstigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20153</ID>
-      <DefaultText>Link to the minds of all allies within a short distance. Any incoming attack against an ally in the mindweb must overcome the highest applicable defense of anyone in the web. If a character in the mindweb is being Hit or Crit, they are removed from the web.</DefaultText>
+      <DefaultText>Verbindung zum Geist aller Verbündeten in kurzer Entfernung. Jeder eingehende Angriff eines Verbündeten im Gedankennetz muss die höchste anwendbare Verteidigung egal welcher Person im Netz überwinden. Wenn ein Charakter im Gedankennetz einen Treffer oder &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; erleidet, wird sie oder er aus dem Netz entfernt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20154</ID>
-      <DefaultText>When free to focus, the cipher's mind sharpens, allowing them to tap into hidden power and generate Focus passively. However, if the cipher is being critically hit, this effect is briefly disabled.</DefaultText>
+      <DefaultText>Wenn der Verstand des Mediums frei ist, um sich zu konzentrieren, schärft er sich, wodurch das Medium auf verborgene Kräfte zugreifen und passiv Fokus generieren kann. Diese Wirkung wird jedoch kurzzeitig außer Kraft gesetzt, wenn das Medium einen &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; erleidet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20200</ID>
-      <DefaultText>Stag Carnage</DefaultText>
+      <DefaultText>Hirsch-Blutbad</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20201</ID>
-      <DefaultText>Successful attacks with stag horns also hit nearby enemies (like barbarian's Carnage). The damage of these attacks increases by +2% per Power Level. </DefaultText>
+      <DefaultText>Erfolgreiche Angriffe mit Druidenhirsch-Geweihen treffen auch Feinde in der Nähe (wie Blutbad des Barbaren). Der Schaden dieser Angriffe erhöht sich um +2% pro Kraftstufe.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20202</ID>
-      <DefaultText>Draws upon the druid's natural connection to the stag, temporarily allowing them to assume that form. The stag spiritshift has higher defenses and can attack groups of enemies with its melee Carnage attack.</DefaultText>
+      <DefaultText>Beruht auf der natürlichen Verbindung des Druiden zum Hirsch, wodurch er vorübergehend diese Form annehmen kann. Die Hirsch-Geisterwandlerform hat höhere Verteidigungswerte und kann mit ihrem Blutbad-Nahkampfangriff ganze Gruppen von Feinden gleichzeitig angreifen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20300</ID>
-      <DefaultText>The monk's strikes generate a sympathetic resonance between the monk and their target. Successive strikes increase the intensity of the resonance (up to 25 stacks). At a time of the monk's choosing, the monk can trigger each resonance to inflict devastating Raw damage to anyone currently carrying them.</DefaultText>
+      <DefaultText>Die Schläge des Mönchs erzeugen eine Eigenschwingung zwischen dem Mönch und seinem Ziel. Sukzessive Schläge vergrößern die Intensität der Eigenschwingung (bis zu 25 Stapel). Zu einem dem Mönch überlassenen Zeitpunkt kann er jede Eigenschwingung auslösen, um verheerenden direkten Schaden auf jeden zu wirken, der sie gerade trägt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20350</ID>
-      <DefaultText>Inspires the paladin and all nearby allies to charge fiercely into battle, increasing their Stride, Disengagement Defense and Action Speed.</DefaultText>
+      <DefaultText>Inspiriert den Paladin und alle umstehenden Verbündeten, sich leidenschaftlich in die Schlacht zu stürzen, und erhöht ihre Bewegungsgeschwindigkeit, Absetzangriff-Verteidigung und Aktionsgeschwindigkeit.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20500</ID>
-      <DefaultText>Attacks done from Stealth or Invisibility deal additional Raw Damage. The rogue may use melee or ranged weapons, but must be within 2m of the target. </DefaultText>
+      <DefaultText>Angriffe aus der Heimlichkeit oder Unsichtbarkeit heraus verursachen zusätzlichen direkten Schaden. Der Schurke kann Nahkampf- oder Fernkampfwaffen verwenden, muss sich aber innerhalb von 2 m vom Ziel befinden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20501</ID>
-      <DefaultText>The rogue looks for openings to counterattack in combat. Incoming melee attacks that target Deflection and Miss or Graze have a chance of allowing an instant Full Attack Riposte. (Requires a melee weapon)</DefaultText>
+      <DefaultText>Der Schurke sucht im Kampf nach Gelegenheiten zum &lt;xg&gt;Konter&lt;/xg&gt;. Bei eingehenden Nahkampfangriffen, die auf Abwehr zielen und verfehlen oder nur einen &lt;link="glossary://GlossaryEntry_Graze"&gt;leichten Treffer&lt;/link&gt; landen, besteht eine Chance auf einen sofortigen vergeltenden vollen Angriff. (Erfordert eine Nahkampfwaffe)</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

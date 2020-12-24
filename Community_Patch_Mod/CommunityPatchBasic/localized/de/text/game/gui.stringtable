@@ -6,17 +6,17 @@
   <Entries>
     <Entry>
       <ID>1154</ID>
-      <DefaultText>regardless of target's Health</DefaultText>
+      <DefaultText>unabhängig von der Gesundheit des Ziels</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>2128</ID>
-      <DefaultText>{0} on succesfull attack</DefaultText>
+      <DefaultText>{0} bei einem erfolgreichen Angriff</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>3810</ID>
-      <DefaultText>on succesfull attack</DefaultText>
+      <DefaultText>bei einem erfolgreichen Angriff</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

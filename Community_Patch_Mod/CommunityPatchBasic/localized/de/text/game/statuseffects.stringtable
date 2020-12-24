@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>+20% Duration with Empowered actions</DefaultText>
+      <DefaultText>+20% Dauer mit ermächtigten Aktionen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,32 +16,32 @@
     </Entry>
     <Entry>
       <ID>20203</ID>
-      <DefaultText>{0:value}% of Base Weapon Damage in 1.5m radius (AoE increases with Intellect) on Weapon Hit</DefaultText>
+      <DefaultText>{0:value}% vom grundlegenden Waffenschaden in 1.5m Radius (Flächenzauber verstärkt sich mit Intellekt) bei einem Treffer mit der Waffe</DefaultText>
       <FemaleText />
     </Entry>
      <Entry>
       <ID>20500</ID>
-      <DefaultText>{0:value:straight} Raw Damage</DefaultText>
+      <DefaultText>{0:value:straight} direkter Schaden</DefaultText>
       <FemaleText />
     </Entry>
      <Entry>
       <ID>20501</ID>
-      <DefaultText>Deals additional Raw Damage with weapon attacks against ≤ 2m distance targets</DefaultText>
+      <DefaultText>Verursacht zusätzlichen direkten Schaden mit Waffenangriffen gegen Ziele, die ≤ 2m entfernt sind</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20502</ID>
-      <DefaultText>+3% Damage for each missing percent of target's Health below 50%</DefaultText>
+      <DefaultText>+3% Schaden für jedes fehlende Prozent der Gesundheit des Ziels unter 50%</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20503</ID>
-      <DefaultText>+6% Damage for each missing percent of target's Health below 50%</DefaultText>
+      <DefaultText>+6% Schaden für jedes fehlende Prozent der Gesundheit des Ziels unter 50%</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20504</ID>
-      <DefaultText>25% chance to counter-attack the enemy when Missed or Grazed with a Melee Weapon attack</DefaultText>
+      <DefaultText>25% Chance für einen Gegenangriff auf den Feind, wenn dieser bei einen Angriff mit einer Nahkampfwaffe einen &lt;link="glossary://GlossaryEntry_Graze"&gt;leichten Treffer&lt;/link&gt; erleidet oder verfehlt wird</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

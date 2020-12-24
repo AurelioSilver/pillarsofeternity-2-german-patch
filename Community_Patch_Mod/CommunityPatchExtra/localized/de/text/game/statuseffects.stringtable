@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>20055</ID>
-      <DefaultText>{0:value:percent} of Base Weapon Damage in 1.5m radius (AoE increases with Intellect) on Weapon Hit</DefaultText>
+      <DefaultText>{0:value:percent} vom grundlegenden Waffenschaden in 1.5m Radius (Flächenzauber verstärkt sich mit Intellekt) bei einem Treffer mit der Waffe</DefaultText>
       <FemaleText />
     </Entry>
      <Entry>
       <ID>20204</ID>
-      <DefaultText>{0:extravalue:percent} of boar's Damage dealt as Raw Damage</DefaultText>
+      <DefaultText>{0:extravalue:percent} vom Schaden des Keilers wird als direkter Schaden ausgeteilt</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20499</ID>
-      <DefaultText>Imbue spell effects gain {0:value} Penetration bonus (increases with Arcana)</DefaultText>
+      <DefaultText>Wirkungen erfüllter Zaubersprüche gewinnen {0:value} Bonus auf Durchschlagskraft (erhöht sich mit Arkana)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20549</ID>
-      <DefaultText>{0:extravalue:percent} von {0:damagetype} Schaden als reiner Schaden über längere Zeit</DefaultText>
+      <DefaultText>{0:extravalue:percent} von {0:damagetype} Schaden als direkter Schaden über längere Zeit</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
