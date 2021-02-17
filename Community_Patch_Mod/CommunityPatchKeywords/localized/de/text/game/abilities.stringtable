@@ -6,22 +6,22 @@
   <Entries>
     <Entry>
       <ID>21011</ID>
-      <DefaultText>Frost weapons</DefaultText>
+      <DefaultText>Waffen (Frost)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21012</ID>
-      <DefaultText>Fire weapons</DefaultText>
+      <DefaultText>Waffen (Brand)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21013</ID>
-      <DefaultText>Shock weapons</DefaultText>
+      <DefaultText>Waffen (Schock)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>21014</ID>
-      <DefaultText>Corrode weapons</DefaultText>
+      <DefaultText>Waffen (Zersetzung)</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
