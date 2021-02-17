@@ -7,12 +7,12 @@
     <Entry>
       <ID>2545</ID>
       <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
-Gain Wounds by melee weapon damage inflicted. (Does not count abilities)
+Erhalte Wunden durch mit Nahkampfwaffen verursachten Schaden. (Fähigkeiten ausgeschlossen)
 
-&lt;b&gt;Penalty&lt;/b&gt;
-Cannot gain Wounds from damage received.
+&lt;b&gt;Abzug&lt;/b&gt;
+Erlittener Schaden erzeugt keine Wunden.
 
-Required threshold to gain Wounds is increased.</DefaultText>
+Die erforderliche Schwelle für den Erhalt von Wunden ist erhöht.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
