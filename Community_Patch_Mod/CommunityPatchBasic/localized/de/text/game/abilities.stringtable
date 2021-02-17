@@ -2,8 +2,19 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>game\abilities</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>15</EntryCount>
+  <EntryCount>17</EntryCount>
   <Entries>
+    <Entry>
+      <ID>2545</ID>
+      <DefaultText>&lt;b&gt;Bonus&lt;/b&gt;
+Gain Wounds by melee weapon damage inflicted. (Does not count abilities)
+
+&lt;b&gt;Penalty&lt;/b&gt;
+Cannot gain Wounds from damage received.
+
+Required threshold to gain Wounds is increased.</DefaultText>
+      <FemaleText />
+    </Entry>
     <Entry>
       <ID>20000</ID>
       <DefaultText>Ermächtige Angriffe erhalten eine erhöhte Dauer.</DefaultText>
@@ -19,6 +30,11 @@
       <DefaultText>Erfahrene Abenteurer versuchen, sich im Voraus auf eventuelle Überraschungen während ihrer Reisen vorzubereiten. Oft bringen sie verschiedene Taschen und Laschen an Kleidung oder Rüstungen an, um die benötigte Schriftrolle oder den benötigten Trank in Reichweite einer Hand zu haben. Der Character erhält einen zusätzlichen Schnellauswahl-Platz.</DefaultText>
       <FemaleText />
     </Entry>
+    <Entry>
+      <ID>20055</ID>
+      <DefaultText>Die Angriffe des Barbaren werden derart heftig, dass auch andere um das anvisierte Ziel davon betroffen werden. Für jeden erfolgreichen Nahkampfangriff führt der Barbar einen Angriff mit verringertem Schaden auf alle anderen Feinde in einem geringen Umkreis um das Ziel herum aus. Der Schaden dieser Angriffe erhöht sich um +3.3% pro Kraftstufe.</DefaultText>
+      <FemaleText />
+	  </Entry>
     <Entry>
       <ID>20150</ID>
       <DefaultText>Klammert sich an einige Eigenschaften der Psyche des Ziels und entzieht diese, wobei es dem Medium die gleiche Menge als Bonus gewährt. Fügt dem Feind eine zufällige Wirkung niederer Stufe zu und verleiht eine entsprechende Inspiration mittlerer Stufe dem Medium.</DefaultText>

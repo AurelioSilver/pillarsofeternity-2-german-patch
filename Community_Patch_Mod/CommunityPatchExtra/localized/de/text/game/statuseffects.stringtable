@@ -5,11 +5,6 @@
   <EntryCount>4</EntryCount>
   <Entries>
     <Entry>
-      <ID>20055</ID>
-      <DefaultText>{0:value:percent} vom grundlegenden Waffenschaden in 1.5m Radius (Flächenzauber verstärkt sich mit Intellekt) bei einem Treffer mit der Waffe</DefaultText>
-      <FemaleText />
-    </Entry>
-     <Entry>
       <ID>20204</ID>
       <DefaultText>{0:extravalue:percent} vom Schaden des Keilers wird als direkter Schaden ausgeteilt</DefaultText>
       <FemaleText />
@@ -22,6 +17,11 @@
     <Entry>
       <ID>20549</ID>
       <DefaultText>{0:extravalue:percent} von {0:damagetype} Schaden als direkter Schaden über längere Zeit</DefaultText>
+      <FemaleText />
+    </Entry>
+    <Entry>
+      <ID>20550</ID>
+      <DefaultText>+100% Schaden im Laufe der Zeit</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
