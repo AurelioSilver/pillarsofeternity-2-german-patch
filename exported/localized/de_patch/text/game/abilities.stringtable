@@ -3666,7 +3666,7 @@
     </Entry>
     <Entry>
       <ID>1210</ID>
-      <DefaultText>Verringert die Regenerationszeit beim Wechseln von Waffen.</DefaultText>
+      <DefaultText>Verringert die Erholungszeit beim Wechseln von Waffen.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
