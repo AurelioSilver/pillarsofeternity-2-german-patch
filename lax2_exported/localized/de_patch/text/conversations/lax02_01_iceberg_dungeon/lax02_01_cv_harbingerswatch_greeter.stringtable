@@ -193,8 +193,8 @@ Die Klinge schwingt in einem Bogen nach unten und verursacht einen feinen roten 
     </Entry>
     <Entry>
       <ID>46</ID>
-      <DefaultText>„Der Teil in jedem von uns, der weiß, wenn das Ende naht, dieser Punkt, nach dem jeder Kampf bedeutungslos ist und was bleibt, ist nur das Vorspiel für nichts.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Der Teil in jedem von uns, der weiß, wenn das Ende naht, dieser Punkt, nach dem jeder Kampf bedeutungslos ist und das, was bleibt, nur der Auftakt zum Nichts ist.“</DefaultText>
+	  <FemaleText />
     </Entry>
     <Entry>
       <ID>47</ID>
