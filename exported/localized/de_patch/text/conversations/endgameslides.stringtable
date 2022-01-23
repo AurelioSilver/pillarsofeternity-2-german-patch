@@ -1530,12 +1530,12 @@ Deine Lungen beginnen zu brennen. In der Ferne siehst du, wie ein mattes Licht a
       <ID>263</ID>
       <DefaultText>Das Licht erreicht dich. Es ist an einem größeren Seeteufel befestigt, dessen Schuppen in der Dunkelheit glänzen. Der Gesang der Frau hört auf, als die Stimme zu deinem Geist spricht.
 
-&lt;i&gt;Wir hatten große Hoffnungen für dich, Wächter von Caed Nua.&lt;/i&gt;
+&lt;i&gt;Wir hatten große Hoffnungen in dich gesetzt, Wächter von Caed Nua.&lt;/i&gt;
 
 Dein Körper verrät dich und schluckt ziemlich viel Salzwasser. Deine Brust verkrampft sich. Der Schmerz ist unerträglich.</DefaultText>
       <FemaleText>Das Licht erreicht dich. Es ist an einem größeren Seeteufel befestigt, dessen Schuppen in der Dunkelheit glänzen. Der Gesang der Frau hört auf, als die Stimme zu deinem Geist spricht.
 
-&lt;i&gt;Wir hatten große Hoffnungen für dich, Wächterin von Caed Nua.&lt;/i&gt;
+&lt;i&gt;Wir hatten große Hoffnungen in dich gesetzt, Wächterin von Caed Nua.&lt;/i&gt;
 
 Dein Körper verrät dich und schluckt ziemlich viel Salzwasser. Deine Brust verkrampft sich. Der Schmerz ist unerträglich.</FemaleText>
     </Entry>
