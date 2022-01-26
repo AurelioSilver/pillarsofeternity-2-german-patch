@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>1</ID>
-      <DefaultText>Die verbrannten Bücher in deinem Bündel werden warm.</DefaultText>
+      <DefaultText>Das verbrannte Buch in deinem Bündel wird warm.</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>
