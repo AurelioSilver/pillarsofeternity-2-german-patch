@@ -951,8 +951,8 @@ So lange wie ein wild gewordener Magier an diesem Ort herumrennt, ist Eora in gr
     </Entry>
     <Entry>
       <ID>252</ID>
-      <DefaultText>„Außer die Rettung von Maura war nie dein Ziel. Vielleicht sind deine und ihre Motive sich ähnlicher als du mich und den Wächter glauben machen willst.“</DefaultText>
-      <FemaleText>„Außer die Rettung von Maura war nie dein Ziel. Vielleicht sind deine und ihre Motive sich ähnlicher als du mich und die Wächterin glauben machen willst.“</FemaleText>
+      <DefaultText>„Außer die Rettung von Maura war nie dein Ziel. Vielleicht sind deine und ihre Motive sich ähnlicher als du mir und dem Wächter glauben machen wolltest.“</DefaultText>
+      <FemaleText>„Außer die Rettung von Maura war nie dein Ziel. Vielleicht sind deine und ihre Motive sich ähnlicher als du mir und der Wächterin glauben machen wolltest.“</FemaleText>
     </Entry>
     <Entry>
       <ID>254</ID>
