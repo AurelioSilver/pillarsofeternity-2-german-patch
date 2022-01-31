@@ -2,7 +2,7 @@
 <StringTableFile xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>conversations\03_neketaka_vailian_district\03_cv_rtc_soldiers</Name>
   <NextEntryID>1</NextEntryID>
-  <EntryCount>76</EntryCount>
+  <EntryCount>77</EntryCount>
   <Entries>
     <Entry>
       <ID>2</ID>
@@ -353,6 +353,11 @@ Er pfeift den anderen zum Abgang.</DefaultText>
     <Entry>
       <ID>117</ID>
       <DefaultText>„Nach Tākowa. Mögen unsere Gegner in Kanonenschüssen untergehen.“ Maia winkt den Seeleuten zu und hebt eine Faust.</DefaultText>
+      <FemaleText />
+    </Entry>
+	<Entry>
+      <ID>118</ID>
+      <DefaultText>Maia – „Nach Tākowa. Mögen unsere Gegner in Kanonenschüssen untergehen.“ Maia winkt den Seeleuten zu und hebt eine Faust.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
