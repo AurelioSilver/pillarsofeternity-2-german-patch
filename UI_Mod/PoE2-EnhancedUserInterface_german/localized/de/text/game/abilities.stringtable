@@ -2915,7 +2915,7 @@ Trotz dieser Vorteile bringt diese Beziehung auch gewisse Risiken mit sich. Wald
     </Entry>
 	<Entry>
       <ID>3610</ID>
-      <DefaultText>&lt;line-height=100%&gt;Wirft einen zufälligen, der Verteidigung dienenden Illusions-Zauberspruch, wenn der Zauberwirker &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Wirkt einen zufälligen, der Verteidigung dienenden Illusions-Zauberspruch, wenn der Zauberwirker &lt;link="glossary://GlossaryEntry_Bloodied"&gt;&lt;#FF9800&gt;Schwer verletzt&lt;space=0.75em&gt;&lt;size=1.25em&gt;&lt;voffset=-0.35em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;#FF9800CC&gt;&lt;voffset=-0.125em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;space=-1.55em&gt;&lt;#83838397&gt;&lt;voffset=0.125em&gt;-&lt;/voffset&gt;&lt;space=-1.55em&gt;&lt;voffset=0.35em&gt;-&lt;/voffset&gt;&lt;/color&gt;&lt;/size&gt;&lt;/color&gt;&lt;/link&gt;&lt;space=0.5em&gt; ist.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

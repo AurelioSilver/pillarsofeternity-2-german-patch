@@ -12559,7 +12559,7 @@ Alle Wundfähigkeiten kosten +1 Wunde.</DefaultText>
     </Entry>
     <Entry>
       <ID>3610</ID>
-      <DefaultText>Wirft einen zufälligen, der Verteidigung dienenden Illusions-Zauberspruch, wenn der Zauberwirker Schwer verletzt ist.</DefaultText>
+      <DefaultText>Wirkt einen zufälligen, der Verteidigung dienenden Illusions-Zauberspruch, wenn der Zauberwirker Schwer verletzt ist.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
