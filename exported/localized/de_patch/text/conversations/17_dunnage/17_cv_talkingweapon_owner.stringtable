@@ -30,9 +30,9 @@ Sie reibt sich mit einer zitternden Hand über die Augen, die rot umrandet und b
     </Entry>
     <Entry>
       <ID>20</ID>
-      <DefaultText>„Du hast gesagt, du würdest zurückkommen! Aber du bist nie gekommen.“
+      <DefaultText>„Du hast gesagt, du würdest zu mir zurückkommen! Aber das hast du nie getan.“
 
-Modwyrs Stimme ist unsicher und angespannt. Er zieht zu Yngfrith, als wäre er eine Nadel und sie ein Magnet.</DefaultText>
+Modwyrs Stimme klingt unsicher und angespannt. Es zieht zu Yngfrith, als wäre es eine Nadel und sie ein Magnet.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -56,7 +56,7 @@ Yngfrith fährt mit ihren Fingern leicht über die gesamte Länge der Klinge. Mo
     </Entry>
     <Entry>
       <ID>24</ID>
-      <DefaultText>„Als ich … ihn verließ, habe ich Modwyr mitgenommen. Ich dachte, es wäre meine Verantwortung, nach ihm zu sehen.“
+      <DefaultText>„Als ich … ihn verließ, habe ich Modwyr mitgenommen. Ich dachte, es wäre meine Verantwortung, auf es aufzupassen.“
 
 „Ich hatte mich entschieden, dass meine Buße für die Erschaffung Modwyrs die Jagd nach denjenigen sein würde, die die Beseelung für schreckliche Zwecke verwendet haben.“</DefaultText>
       <FemaleText />
@@ -405,12 +405,12 @@ Mit dem Schwert in der Hand verlässt sie den Markt und sieht nicht zurück.</De
     </Entry>
     <Entry>
       <ID>118</ID>
-      <DefaultText>„Ich habe es nicht vergessen.“ Seine Stimme wird weicher und verstummt.</DefaultText>
+      <DefaultText>„Ich habe es nicht vergessen.“ Modwyrs Stimme wird weicher und verstummt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>119</ID>
-      <DefaultText>„Du benimmst dich so, als müsste man sich nur entscheiden.“ Seine Stimme wird weicher und verstummt.</DefaultText>
+      <DefaultText>„Du benimmst dich so, als müsste man sich nur entscheiden.“ Modwyrs Stimme wird weicher und verstummt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
