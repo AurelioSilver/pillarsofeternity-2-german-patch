@@ -303,7 +303,7 @@ Xoti wirft ihrer dunklen Laterne einen seltsamen Blick zu und wendet sich dann m
     </Entry>
     <Entry>
       <ID>59</ID>
-      <DefaultText>„Geht es jetzt besser?“</DefaultText>
+      <DefaultText>„Geht es dir besser?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -320,7 +320,7 @@ Xoti zittert leicht und hebt ihre Sichel, um die Hinterseite der gebogenen Kling
     </Entry>
     <Entry>
       <ID>62</ID>
-      <DefaultText>„Geht es jetzt besser?“</DefaultText>
+      <DefaultText>„Geht es dir besser?“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -330,14 +330,14 @@ Xoti zittert leicht und hebt ihre Sichel, um die Hinterseite der gebogenen Kling
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Wie könnte ich das nicht sein?“
+      <DefaultText>„Wie könnte es das nicht?“
 
 Sie wirft ihren Kopf zurück und atmet tief ein.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>65</ID>
-      <DefaultText>„Meine Knochen sind immer noch ein wenig zittrig. Aber, ja, ich meine, ich bin es.“</DefaultText>
+      <DefaultText>„Meine Knochen sind immer noch ein wenig zittrig. Aber, ja, ich meine, das tut es.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
