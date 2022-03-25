@@ -17,7 +17,7 @@ Die erforderliche Schwelle für den Erhalt von Wunden ist erhöht.</DefaultText>
     </Entry>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>Ermächtige Angriffe erhalten eine erhöhte Dauer.</DefaultText>
+      <DefaultText>Die Ermächtigung eines Zaubers oder einer Fähigkeit gewährt einen Bonus auf die Dauer der jeweiligen Wirkungen und Inspirationen sowie einen kleineren, aber anhaltenden Bonus für den Rest des Kampfes.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -32,9 +32,9 @@ Die erforderliche Schwelle für den Erhalt von Wunden ist erhöht.</DefaultText>
     </Entry>
     <Entry>
       <ID>20055</ID>
-      <DefaultText>Die Angriffe des Barbaren werden derart heftig, dass auch andere um das anvisierte Ziel davon betroffen werden. Für jeden erfolgreichen Nahkampfangriff führt der Barbar einen Angriff mit verringertem Schaden auf alle anderen Feinde in einem geringen Umkreis um das Ziel herum aus. Der Schaden dieser Angriffe erhöht sich um +3.3% pro Kraftstufe.</DefaultText>
+      <DefaultText>Die Angriffe des Barbaren werden derart heftig, dass auch andere um das anvisierte Ziel davon betroffen werden. Für jeden erfolgreichen Nahkampfangriff führt der Barbar einen Angriff mit verringertem, direkten Schaden auf alle anderen Feinde in einem geringen Umkreis um das Ziel herum aus. Der Schaden dieser Angriffe erhöht sich um +3.3% pro Kraftstufe.</DefaultText>
       <FemaleText />
-	  </Entry>
+    </Entry>
     <Entry>
       <ID>20150</ID>
       <DefaultText>Klammert sich an einige Eigenschaften der Psyche des Ziels und entzieht diese, wobei es dem Medium die gleiche Menge als Bonus gewährt. Fügt dem Feind eine zufällige Wirkung niederer Stufe zu und verleiht eine entsprechende Inspiration mittlerer Stufe dem Medium.</DefaultText>
@@ -47,12 +47,12 @@ Die erforderliche Schwelle für den Erhalt von Wunden ist erhöht.</DefaultText>
     </Entry>
     <Entry>
       <ID>20152</ID>
-      <DefaultText>Sucht den Verstand des Ziels mit düsteren Erinnerungen an all diejenigen heim, die es verloren oder getötet hat. Dadurch wird das Ziel Geschockt und leidet unter der Wirkung Humpelnd und die Feinde um es herum leiden unter der Wirkung Geschockt und Verängstigt.</DefaultText>
+      <DefaultText>Sucht den Verstand des Ziels mit düsteren Erinnerungen an all diejenigen heim, die es verloren oder getötet hat. Dadurch wird das Ziel Geschockt und leidet unter der Wirkung Humpelnd und die Feinde um es herum leiden unter der Wirkung Humpelnd und Verängstigt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>20153</ID>
-      <DefaultText>Verbindung zum Geist aller Verbündeten in kurzer Entfernung. Jeder eingehende Angriff eines Verbündeten im Gedankennetz muss die höchste anwendbare Verteidigung egal welcher Person im Netz überwinden. Wenn ein Charakter im Gedankennetz einen Treffer oder &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; erleidet, wird sie oder er aus dem Netz entfernt.</DefaultText>
+      <DefaultText>Verbindung zum Geist aller Verbündeten in kurzer Entfernung. Jeder eingehende Angriff eines Verbündeten im Gedankennetz muss die höchste anwendbare Verteidigung egal welcher Person im Netz überwinden. Wenn ein Charakter im Gedankennetz dreimal Schaden erleidet, wird sie oder er aus dem Netz entfernt.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

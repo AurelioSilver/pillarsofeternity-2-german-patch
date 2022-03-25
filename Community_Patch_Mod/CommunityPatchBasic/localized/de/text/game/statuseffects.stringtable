@@ -6,7 +6,7 @@
   <Entries>
     <Entry>
       <ID>20000</ID>
-      <DefaultText>+15% Dauer mit ermächtigten Aktionen</DefaultText>
+      <DefaultText>+15% Dauer von Wirkungen und Inspirationen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -16,7 +16,7 @@
     </Entry>
     <Entry>
       <ID>20055</ID>
-      <DefaultText>{0:value:percent} vom grundlegenden Waffenschaden in 1.5m Radius (Flächenzauber verstärkt sich mit Intellekt) bei einem Treffer mit der Waffe</DefaultText>
+      <DefaultText>{0:value:percent} vom grundlegenden Waffenschaden als direkter Schaden in 1.5m Radius (Flächenzauber verstärkt sich mit Intellekt) bei einem Treffer mit der Waffe</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
