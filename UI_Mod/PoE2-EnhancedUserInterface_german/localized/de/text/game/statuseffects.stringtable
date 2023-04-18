@@ -241,7 +241,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>&lt;line-height=100%&gt;Bei mehr als {0:triggervalue:percent} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; besteht eine {0:extravalue:percent} Chance, dass eingehenden Angriffen mit Fernkampfwaffen nur {0:value:percent} Schaden zufügen&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Bei mehr als {0:triggervalue:percent} &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Health"&gt;&lt;voffset=0.1em&gt;&lt;size=80%&gt;&lt;#80e27e&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/color&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=-0.8em&gt;&lt;voffset=0.8em&gt;&lt;size=45%&gt;&lt;#4caf50&gt;&lt;sprite="Inline" name="cs_health" tint=1&gt;&lt;/size&gt;&lt;/voffset&gt;&lt;space=0.7em&gt;Gesundheit&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; besteht eine {0:extravalue:percent} Chance, dass eingehende Angriffe mit Fernkampfwaffen nur {0:value:percent} Schaden zufügen&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -426,7 +426,7 @@
     </Entry>
     <Entry>
       <ID>85</ID>
-      <DefaultText>Bei mehr als {0:triggervalue:percent} Gesundheit besteht eine {0:extravalue:percent} Chance, dass eingehenden Angriffen mit Fernkampfwaffen nur {0:value:percent} Schaden zufügen</DefaultText>
+      <DefaultText>Bei mehr als {0:triggervalue:percent} Gesundheit besteht eine {0:extravalue:percent} Chance, dass eingehende Angriffe mit Fernkampfwaffen nur {0:value:percent} Schaden zufügen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
