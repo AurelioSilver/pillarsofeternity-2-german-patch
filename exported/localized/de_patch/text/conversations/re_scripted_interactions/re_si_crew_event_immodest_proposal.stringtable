@@ -329,7 +329,7 @@ Du schließt die Tür, schiebst den Riegel vor und schüttelst den Kopf, bevor d
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Oh, du wirst noch viel von mir zu hören bekommen, glaub mir.“ Mit einem schelmischen Grinsen greift [Specified 3] nach deiner Hand und zieht dich langsam in Richtung deiner Koje.</DefaultText>
+      <DefaultText>„Oh, du wirst noch viel von mir zu hören bekommen, glaub’ mir.“ Mit einem schelmischen Grinsen greift [Specified 3] nach deiner Hand und zieht dich langsam in Richtung deiner Koje.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

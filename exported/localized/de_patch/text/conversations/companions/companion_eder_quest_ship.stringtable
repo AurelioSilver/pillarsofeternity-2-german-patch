@@ -788,7 +788,7 @@ Bearn sieht beklommen und aufgebracht aus.</DefaultText>
       <ID>163</ID>
       <DefaultText>„Du wirst viel Zeit haben, um darüber nachzudenken, ob es die richtige Wahl war.“
 
-„Es ist nicht so offensichtlich, wie du denkst, glaub mir.“</DefaultText>
+„Es ist nicht so offensichtlich, wie du denkst, glaub’ mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -1026,7 +1026,7 @@ Mit einem zufriedenen Lächeln tut Bosc es seinem Schüler gleich.</DefaultText>
     </Entry>
     <Entry>
       <ID>210</ID>
-      <DefaultText>„Bearn, manchmal musst du selbst eine Entscheidung treffen. Diejenigen, die über dir stehen, haben nicht immer die richtigen Antworten. Glaub mir.“</DefaultText>
+      <DefaultText>„Bearn, manchmal musst du selbst eine Entscheidung treffen. Diejenigen, die über dir stehen, haben nicht immer die richtigen Antworten. Glaub’ mir.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

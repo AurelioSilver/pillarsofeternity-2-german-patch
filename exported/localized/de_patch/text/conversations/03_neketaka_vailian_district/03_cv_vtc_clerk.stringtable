@@ -684,10 +684,10 @@ Er wirft dir einen Beutel Münzen zu.</DefaultText>
     </Entry>
     <Entry>
       <ID>208</ID>
-      <DefaultText>„Ac. Glaub mir, Luca. Du solltest es dir mit der Gesellschaft besser nicht verscherzen. Lass dich von ihm hier nicht vom Gegenteil überzeugen.“
+      <DefaultText>„Ac. Glaub’ mir, Luca. Du solltest es dir mit der Gesellschaft besser nicht verscherzen. Lass dich von ihm hier nicht vom Gegenteil überzeugen.“
 
 Sie neigt ihren gefiederten Kopf in deine Richtung und wirft dir einen verbitterten Blick zu.</DefaultText>
-      <FemaleText>„Ac. Glaub mir, Luca. Du solltest es dir mit der Gesellschaft besser nicht verscherzen. Lass dich von ihr hier nicht vom Gegenteil überzeugen.“
+      <FemaleText>„Ac. Glaub’ mir, Luca. Du solltest es dir mit der Gesellschaft besser nicht verscherzen. Lass dich von ihr hier nicht vom Gegenteil überzeugen.“
 
 Sie neigt ihren gefiederten Kopf in deine Richtung und wirft dir einen verbitterten Blick zu.</FemaleText>
     </Entry>
