@@ -149,7 +149,7 @@ Die Tür so aufzuhebeln, wird dich physisch sehr in Anspruch nehmen.</DefaultTex
     </Entry>
     <Entry>
       <ID>33</ID>
-      <DefaultText>Während der Eingang weiter freigegeben wird, ist ein deutliches Klackern im Stein zu hören, das von einem Mechanismus ausgeht, der die Tür nun offenhält.</DefaultText>
+      <DefaultText>Während der Eingang weiter freigegeben wird, ist ein deutliches Klackern im Stein zu hören, das von einem Mechanismus ausgeht, der die Tür nun offen hält.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
