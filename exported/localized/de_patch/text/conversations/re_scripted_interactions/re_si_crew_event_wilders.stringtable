@@ -393,7 +393,7 @@ Die Mannschaft geht auseinander und zurück an ihre Aufgaben. Du hast die Krise 
     </Entry>
     <Entry>
       <ID>79</ID>
-      <DefaultText>Blut spritzt auf das Deck. Mit offenen Mund stürzt [Specified 3] nach hinten über die Reling und ins Wasser.</DefaultText>
+      <DefaultText>Blut spritzt auf das Deck. Mit offenem Mund stürzt [Specified 3] nach hinten über die Reling und ins Wasser.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
