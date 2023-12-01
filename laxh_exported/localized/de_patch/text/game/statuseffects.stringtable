@@ -51,7 +51,7 @@
     </Entry>
     <Entry>
       <ID>733</ID>
-      <DefaultText>{0:value:percent} Chance, beim Erzielen einen Treffers Initiative zu löschen</DefaultText>
+      <DefaultText>{0:value:percent} Chance, beim Erzielen eines Treffers Initiative zu löschen</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
