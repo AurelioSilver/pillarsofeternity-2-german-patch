@@ -1007,8 +1007,8 @@ Er schnaubt.</DefaultText>
     </Entry>
     <Entry>
       <ID>246</ID>
-      <DefaultText>„Da hast du kein Glück, Elf. Weder für ihn, noch für dich.“</DefaultText>
-      <FemaleText>„So viel Glück nicht, Elf. Für sie oder dich.“</FemaleText>
+      <DefaultText>„Da hast du kein Glück, Elf. Weder für ihn noch für dich.“</DefaultText>
+      <FemaleText>„So ein Glück hast du nicht, Elf. Weder für sie noch für dich.“</FemaleText>
     </Entry>
     <Entry>
       <ID>247</ID>
