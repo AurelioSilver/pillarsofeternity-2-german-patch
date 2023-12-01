@@ -178,7 +178,7 @@
 •&lt;indent=2.5em&gt;Automatische Angriffe mit zwei Waffen sind jetzt volle Angriffe, die sich nicht mehr auf die Erholungszeit auswirken.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Dauer wird in die letzte Anzahl von „Runden“ konvertiert.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;Bei Effekten, die ticken, pulsieren oder über die Zeit auftreten, wird die Wirkung skaliert, um sie dem Wert pro Runde anzupassen.&lt;/indent&gt;
-•&lt;indent=2.5em&gt;Magrans Herausforderung führt bei Runden eine Zeitbegrenzung anstelle einer Begrenung des Pausierens ein.&lt;/indent&gt;
+•&lt;indent=2.5em&gt;Magrans Herausforderung führt bei Runden eine Zeitbegrenzung anstelle einer Begrenzung des Pausierens ein.&lt;/indent&gt;
 •&lt;indent=2.5em&gt;KI der Gruppenmitglieder und erneutes Zielen sind deaktiviert.&lt;/indent&gt;</DefaultText>
       <FemaleText />
     </Entry>
