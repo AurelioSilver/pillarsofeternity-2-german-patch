@@ -146,7 +146,7 @@ Die anderen Soldaten tun ihr Möglichstes, um stramm zu stehen, aber da sie zugl
     </Entry>
     <Entry>
       <ID>64</ID>
-      <DefaultText>„Komm, [Player Name]. Es ist Zeit für dich, zu sehen, an was Okayas Ingenieure gearbeitet haben.“</DefaultText>
+      <DefaultText>„Komm, [Player Name]. Es ist Zeit für dich, zu sehen, woran Okayas Ingenieure gearbeitet haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -2507,7 +2507,7 @@ Du spürst Zufriedenheit in ihrem Blick.</DefaultText>
     </Entry>
     <Entry>
       <ID>652</ID>
-      <DefaultText>„Komm, [Player Name]. Es ist Zeit für dich, zu sehen, an was Okayas Ingenieure gearbeitet haben.“</DefaultText>
+      <DefaultText>„Komm, [Player Name]. Es ist Zeit für dich, zu sehen, woran Okayas Ingenieure gearbeitet haben.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
