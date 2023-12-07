@@ -233,12 +233,12 @@ Er wirft dir einen schnellen Blick zu als würde er fragen, „War das in Ordnun
     </Entry>
     <Entry>
       <ID>68</ID>
-      <DefaultText>„Unverschämter Tölpel! Ich sagte, ich habe genug von dir.
+      <DefaultText>„Unverschämter Tölpel! Ich sagte, ich habe genug von dir.“
 
-“Wachen! Führt diesen hier weg!</DefaultText>
-      <FemaleText>„Unverschämte Person! Ich sagte, ich habe genug von dir.
+„Wachen! Führt diesen hier weg!“</DefaultText>
+      <FemaleText>„Unverschämte Person! Ich sagte, ich habe genug von dir.“
 
-“Wachen! Führt sie weg!</FemaleText>
+„Wachen! Führt sie weg!“</FemaleText>
     </Entry>
     <Entry>
       <ID>69</ID>

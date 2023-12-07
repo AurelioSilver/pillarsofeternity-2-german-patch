@@ -439,14 +439,14 @@ Als du an Deck kommst, kniet [SkillCheck 0] vor dir und ist an Händen und Füß
     </Entry>
     <Entry>
       <ID>87</ID>
-      <DefaultText>„Tu mit mir, was du tun musst. Du bist derjenige, der es bis zum Ende schaffen muss.
+      <DefaultText>„Tue mit mir, was du tun musst. Du bist derjenige, der es bis zum Ende schaffen muss.“
 
-“Aber tue mir diesen Gefallen. Sag Eothas, dass er eine Menge guter Anhänger hat. Sag ihm, dass er ihnen noch Rechenschaft schuldig ist.
+„Aber tue mir diesen Gefallen. Sag Eothas, dass er eine Menge guter Anhänger hat. Sag ihm, dass er ihnen noch Rechenschaft schuldig ist.“
 
 „Sag ihm, dass er ihnen noch was schuldet.“ Edér atmet durch zusammengebissene Zähne. Er sieht dich wartend an.</DefaultText>
-      <FemaleText>„Tu mit mir, was du tun musst. Du bist diejenige, die es bis zum Ende schaffen muss.
+      <FemaleText>„Tue mit mir, was du tun musst. Du bist diejenige, die es bis zum Ende schaffen muss.“
 
-“Aber tue mir diesen Gefallen. Sag Eothas, dass er eine Menge guter Anhänger hat. Sag ihm, dass er ihnen noch Rechenschaft schuldig ist.
+„Aber tue mir diesen Gefallen. Sag Eothas, dass er eine Menge guter Anhänger hat. Sag ihm, dass er ihnen noch Rechenschaft schuldig ist.“
 
 „Sag ihm, dass er ihnen noch was schuldet.“ Edér atmet durch zusammengebissene Zähne. Er sieht dich wartend an.</FemaleText>
     </Entry>
