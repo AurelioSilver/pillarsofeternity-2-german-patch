@@ -3937,7 +3937,7 @@ Trotz dieser Vorteile hat diese Beziehung auch Risiken. Waldläufer sind buchst�
     </Entry>
     <Entry>
       <ID>4867</ID>
-      <DefaultText>&lt;line-height=100%&gt;Während Drago dir folgt, verfügst du über erhöhtes Vorwärtskommen und deine Gruppe erhält einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; gegen Absetzenangriffe.&lt;/line-height&gt;</DefaultText>
+      <DefaultText>&lt;line-height=100%&gt;Während Drago dir folgt, verfügst du über erhöhtes Vorwärtskommen und deine Gruppe erhält einen Bonus auf &lt;nobr&gt;&lt;link="glossary://GlossaryEntry_Deflection"&gt;&lt;#b0cffd&gt;&lt;sprite="Inline" name="cs_deflection" tint=1&gt;&lt;space=0.7em&gt;Abwehr&lt;/color&gt;&lt;/link&gt;&lt;/nobr&gt; gegen Absetzangriffe.&lt;/line-height&gt;</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
