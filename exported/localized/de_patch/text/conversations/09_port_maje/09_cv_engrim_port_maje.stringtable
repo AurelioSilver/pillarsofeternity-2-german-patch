@@ -194,7 +194,7 @@ Engrims Auge zuckt und er lässt ein Lächeln aufblitzen, das aufgrund der fehle
     </Entry>
     <Entry>
       <ID>38</ID>
-      <DefaultText>„Oh, das &lt;i&gt;tu&lt;/i&gt; ich doch, Kapitän. Ich bete für die Stärke, um uns erneut diesen Piraten stellen zu können. Wir werden sie nicht ein zweites Mal entkommen lassen.“</DefaultText>
+      <DefaultText>„Oh, das &lt;i&gt;tu’&lt;/i&gt; ich doch, Kapitän. Ich bete für die Stärke, um uns erneut diesen Piraten stellen zu können. Wir werden sie nicht ein zweites Mal entkommen lassen.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -235,7 +235,7 @@ Er tippt sich geistesabwesend in der Nähe des Herzens auf die Brust, wobei der 
     </Entry>
     <Entry>
       <ID>45</ID>
-      <DefaultText>„Ich schau mal, ob ich noch jemanden finden kann.“</DefaultText>
+      <DefaultText>„Ich schau’ mal, ob ich noch jemanden finden kann.“</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -260,7 +260,7 @@ Er tippt sich geistesabwesend in der Nähe des Herzens auf die Brust, wobei der 
     </Entry>
     <Entry>
       <ID>50</ID>
-      <DefaultText>„Gut. Ich mach mal ein Feuer.“
+      <DefaultText>„Gut. Ich mach’ mal ein Feuer.“
 
 Er nickt enthusiastisch, wobei sein Auge zuckt.
 
