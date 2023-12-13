@@ -940,8 +940,8 @@ Tekēhu beißt auf seinen Daumennagel und sieht dich mit besorgten, weit aufgeri
     </Entry>
     <Entry>
       <ID>226</ID>
-      <DefaultText>„Wir sollten uns lieber unseren Weg hier raus kämpfen, als unsere Ehre an diese … Kreatur zu verkaufen.“</DefaultText>
-      <FemaleText />
+      <DefaultText>„Besser, wir kämpfen uns den Weg frei, Wächter, als unsere Ehre an diese … Kreatur zu verkaufen.“</DefaultText>
+      <FemaleText>„Besser, wir kämpfen uns den Weg frei, Wächterin, als unsere Ehre an diese … Kreatur zu verkaufen.“</FemaleText>
     </Entry>
     <Entry>
       <ID>227</ID>
