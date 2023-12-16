@@ -289,7 +289,7 @@ Wachen dieser Quelle vielleicht.
     </Entry>
     <Entry>
       <ID>69</ID>
-      <DefaultText>Mit dem schweren, durch Seile auf seinem Rücken festgebundenen Prüfstein stemmt sich [Specified 0] gegen die Wand des Brunnens und lässt sich langsam in die Dunkelheit hinab.</DefaultText>
+      <DefaultText>Den schweren Prüfstein mit einem Seil auf seinem Rücken befestigt, stemmt sich [Specified 0] gegen die Wand des Brunnens und lässt sich langsam in die Dunkelheit hinab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -341,7 +341,7 @@ Du bemerkst einen zutage tretenden Stein in der Nähe, der aus dem Wasser emporr
     </Entry>
     <Entry>
       <ID>80</ID>
-      <DefaultText>Mit dem schweren, durch Seile auf ihrem Rücken festgebundenen Prüfstein stemmt sich [Specified 0] gegen die Wand des Brunnens und lässt sich langsam in die Dunkelheit hinab.</DefaultText>
+      <DefaultText>Den schweren Prüfstein mit einem Seil auf ihrem Rücken befestigt, stemmt sich [Specified 0] gegen die Wand des Brunnens und lässt sich langsam in die Dunkelheit hinab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -438,12 +438,12 @@ Trotz eines schmerzenden Knöchels schaffst du es, auf den Vorsprung zu klettern
     </Entry>
     <Entry>
       <ID>99</ID>
-      <DefaultText>Mit dem schweren, durch Seile auf seinem Rücken festgebundenen Prüfstein stemmt sich [Specified 0] gegen die Wand des Brunnens und lässt sich langsam in die Dunkelheit hinab.</DefaultText>
+      <DefaultText>Den schweren Prüfstein mit einem Seil auf seinem Rücken befestigt, stemmt sich [Specified 0] gegen die Wand des Brunnens und lässt sich langsam in die Dunkelheit hinab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
       <ID>100</ID>
-      <DefaultText>Mit dem schweren, durch Seile auf ihrem Rücken festgebundenen Prüfstein stemmt sich [Specified 0] gegen die Wand des Brunnens und lässt sich langsam in die Dunkelheit hinab.</DefaultText>
+      <DefaultText>Den schweren Prüfstein mit einem Seil auf ihrem Rücken befestigt, stemmt sich [Specified 0] gegen die Wand des Brunnens und lässt sich langsam in die Dunkelheit hinab.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
