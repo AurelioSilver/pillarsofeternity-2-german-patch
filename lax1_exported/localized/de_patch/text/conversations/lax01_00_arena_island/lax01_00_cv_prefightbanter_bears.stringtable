@@ -164,10 +164,10 @@ Er zieht den Bären am Fell, fort von deiner einladenden Zuneigung.</DefaultText
       <ID>31</ID>
       <DefaultText>„Pass auf dich auf, Wettstreiter.“
 
-Der Bär beschnüffelt dich misstrauisch, als du an der Gruppe vorbei marschierst.</DefaultText>
+Der Bär beschnüffelt dich misstrauisch, als du an der Gruppe vorbeimarschierst.</DefaultText>
       <FemaleText>„Pass auf dich auf, Wettstreiterin.“
 
-Der Bär beschnüffelt dich misstrauisch, als du an der Gruppe vorbei marschierst.</FemaleText>
+Der Bär beschnüffelt dich misstrauisch, als du an der Gruppe vorbeimarschierst.</FemaleText>
     </Entry>
     <Entry>
       <ID>32</ID>
