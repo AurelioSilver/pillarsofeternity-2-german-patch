@@ -306,7 +306,7 @@ Als der Stein sinkt, sinkt die große Steintür ebenfalls und verschwindet im Bo
     </Entry>
     <Entry>
       <ID>84</ID>
-      <DefaultText>Mit einer ungefähren Größe von einem Meter ist der Sockel nur wenig größer als eine besonders gut gewachsene Melone. Sowohl was das Material wie auch die Konstruktion angeht, erinnert dich der Sockel an den Prüfstein. Er weist sogar ähnliche Markierungen auf.</DefaultText>
+      <DefaultText>Mit einer ungefähren Größe von einem Meter ist der Sockel nur wenig größer als eine besonders gut gewachsene Melone. Sowohl vom Material als auch von der Konstruktion her erinnert dich der Sockel an den Prüfstein. Er weist sogar ähnliche Markierungen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -582,7 +582,7 @@ Edér schüttelt den Kopf.</DefaultText>
     </Entry>
     <Entry>
       <ID>148</ID>
-      <DefaultText>Mit einer ungefähren Größe von einem Meter ist der Sockel nur wenig größer als eine besonders gut gewachsene Melone. Sowohl was das Material wie auch die Konstruktion angeht, erinnert dich der Sockel an den Prüfstein. Er weist sogar ähnliche Markierungen auf.</DefaultText>
+      <DefaultText>Mit einer ungefähren Größe von einem Meter ist der Sockel nur wenig größer als eine besonders gut gewachsene Melone. Sowohl vom Material als auch von der Konstruktion her erinnert dich der Sockel an den Prüfstein. Er weist sogar ähnliche Markierungen auf.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
