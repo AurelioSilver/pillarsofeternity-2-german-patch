@@ -9623,7 +9623,7 @@ Bei ihrem Tod ist es Bezas Geist gelungen, diese Klinge hinter den Schleier mitz
     </Entry>
     <Entry>
       <ID>3754</ID>
-      <DefaultText>Diese Leinensegel wurden mit geflochtenen Trollhaarfasern verstärkt, um die gesamte Widerstandsfähigkeit zu erhöhen. Das zusätzliche Gewicht erschwert das Halsen und Wenden, was das Schiff im Kampf weniger manövrierfähig macht. Die regenerativen Eigenschaften der Trollhaare verringern die Reperaturkosten, wenn die Segel beschädigt oder gerissen wurden.</DefaultText>
+      <DefaultText>Diese Leinensegel wurden mit geflochtenen Trollhaarfasern verstärkt, um die gesamte Widerstandsfähigkeit zu erhöhen. Das zusätzliche Gewicht erschwert das Halsen und Wenden, was das Schiff im Kampf weniger manövrierfähig macht. Die regenerativen Eigenschaften der Trollhaare verringern die Reparaturkosten, wenn die Segel beschädigt oder gerissen wurden.</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
