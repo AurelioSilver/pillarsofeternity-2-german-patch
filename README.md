@@ -1,11 +1,13 @@
 # pillarsofeternity-2-german-patch
 This project fixes errors in the german translation of Pillars of Eternity II: Deadfire
 
-Dieses Projekt behebt ‹bersetzungsfehler der deutschen Version von "Pillars of Eternity II: Deadfire",
-von denen es leider allerhand gab und gibt. Auﬂerdem gibt es einen kompletten Satz Typographie, weil ich diese "" ingame nicht ausstehen kann.
+Dieses Projekt behebt √úbersetzungsfehler der deutschen Version von "Pillars of Eternity II: Deadfire",
+von denen es leider allerhand gab und gibt. Au√üerdem gibt es einen kompletten Satz Typographie, weil ich diese "" ingame nicht ausstehen kann.
 
 Release builds are also available on nexusmods:
 https://www.nexusmods.com/pillarsofeternity2/mods/5/?
+
+The Steamworkshop has also a version of this mod available.
 
 Please report bugs here or on the Obsidian forum: https://forums.obsidian.net/topic/97719-german-translation-errors-missing-translations-poe-2-edition/
 
