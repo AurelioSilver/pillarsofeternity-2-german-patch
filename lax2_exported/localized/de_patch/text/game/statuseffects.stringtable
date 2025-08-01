@@ -26,7 +26,7 @@
     </Entry>
     <Entry>
       <ID>441</ID>
-      <DefaultText>(Aktueller Bonus: {0:value:percent}) Erhalte alle {0:interval} {0:value:percent} Treffer zu &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; (Wirkung wird bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; zurückgesetzt)</DefaultText>
+      <DefaultText>(Aktueller Bonus: {0:value:percent}) Erhalte alle {0:interval} {0:extravalue:percent} Treffer zu &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischem Treffer&lt;/link&gt; (Wirkung wird bei einem erzielten &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischen Treffer&lt;/link&gt; zurückgesetzt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -91,7 +91,7 @@
     </Entry>
     <Entry>
       <ID>563</ID>
-      <DefaultText>{0:statuseffects} jedes Mal, wenn der Träger verfehlt wird (Kann bis zu {0:triggervalue:straight}-mal gestapelt werden)</DefaultText>
+      <DefaultText>{0:statuseffects} jedes Mal, wenn der Träger verfehlt wird (Kann bis zu {0:value:straight}-mal gestapelt werden)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>584</ID>
-      <DefaultText>Wird ein &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischer Treffer&lt;/link&gt; erzielt, erleidet das Ziel {0:value:straight} direkten Schaden für {0:extravalue:duration} (Die Dauer verlängert sich, wenn das Ziel Schaden austeilt)</DefaultText>
+      <DefaultText>Wird ein &lt;link="glossary://GlossaryEntry_Critical_Hit"&gt;kritischer Treffer&lt;/link&gt; erzielt, erleidet das Ziel {0:value:straight} direkten Schaden alle {0:interval} für {0:extravalue:duration} (Die Dauer verlängert sich, wenn das Ziel Schaden austeilt)</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>

@@ -106,7 +106,7 @@
     </Entry>
     <Entry>
       <ID>748</ID>
-      <DefaultText>{0:Value:PercentBonus} Phrasen-Verweildauer</DefaultText>
+      <DefaultText>{0:value:percentbonus} Phrasen-Verweildauer</DefaultText>
       <FemaleText />
     </Entry>
   </Entries>

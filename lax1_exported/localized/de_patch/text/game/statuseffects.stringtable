@@ -101,7 +101,7 @@
     </Entry>
     <Entry>
       <ID>629</ID>
-      <DefaultText>Der durch Den Wind entfesseln verursachte Schaden wird erhöht</DefaultText>
+      <DefaultText>Der durch Den Wind entfesseln verursachte Schaden wird um {0:value:percentbonus} erhöht</DefaultText>
       <FemaleText />
     </Entry>
     <Entry>
